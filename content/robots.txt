@@ -1,9 +1,4 @@
-# Group 1
-User-agent: Googlebot
-Disallow: /nogooglebot/
-
-# Group 2
 User-agent: *
-Allow: /
+Disallow: /
 
 Sitemap: https://stag21.netlify.app/sitemap.xml
