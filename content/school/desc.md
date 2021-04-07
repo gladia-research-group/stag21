@@ -12,11 +12,4 @@ design:
 ---
 
 
-## Program
-
-
-Events: To fill using the "Event" page page types with "compat" visualization mode.
-
-
-Calendar: search for some type of integration with google calendar
-
+Describe Graduate School

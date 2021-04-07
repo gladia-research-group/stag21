@@ -15,19 +15,21 @@
 
 [[main]]
   name = "Call for papers"
+  url = "call_papers"
+
   weight = 30
 
-[[main]]
-  name = "Aim and scope"
-  url = "call_papers/scope"
-  weight = 10
-  parent = "Call for papers"
+# [[main]]
+#   name = "Aim and scope"
+#   url = "call_papers/scope"
+#   weight = 10
+#   parent = "Call for papers"
 
-[[main]]
-  name = "Submission"
-  url = "call_papers/Submission"
-  weight = 20
-  parent = "Call for papers"
+# [[main]]
+#   name = "Submission"
+#   url = "call_papers/submission"
+#   weight = 20
+#   parent = "Call for papers"
 
 [[main]]
   name = "Program"
@@ -45,6 +47,13 @@
   weight = 20
   parent = "Program"
 
+
+[[main]]
+  name = "Graduate School"
+  url = "school"
+  weight = 45
+
+
 [[main]]
   name = "Organizers"
   url = "organizers/"
@@ -52,19 +61,25 @@
 
 [[main]]
   name = "Attend"
+  url = "attend/"
   weight = 60
 
 [[main]]
-  name = "Registration"
-  weight = 10
-  url = "attend/registration"
-  parent = "Attend"
+  name = "Ph.D. Consortium"
+  url = "consortium/"
+  weight = 70
 
-[[main]]
-  name = "Conference Venue"
-  weight = 20
-  url = "attend/venue"
-  parent = "Attend"
+# [[main]]
+#   name = "Registration"
+#   weight = 10
+#   url = "attend/registration"
+#   parent = "Attend"
+
+# [[main]]
+#   name = "Conference Venue"
+#   weight = 20
+#   url = "attend/venue"
+#   parent = "Attend"
 
 [[main]]
   name = "Awards"

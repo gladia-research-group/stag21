@@ -12,7 +12,7 @@ design:
 ---
 
 
-## Attend
+## Registration
 
 ---
 
@@ -24,8 +24,7 @@ The paper registration fee is 60€ both for papers accepted as full and poster.
 
 There is no registration fee for attendees. Anyway, all attendees are requested to register to the conference by filling the form at the following link
 
-
-## CONFERENCE VENUE
+## Conference Venue
 
 ---
 
