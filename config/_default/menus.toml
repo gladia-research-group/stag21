@@ -15,26 +15,26 @@
 
 [[main]]
   name = "Call for papers"
-  url = "/"
+  url = "call_papers"
   weight = 30
 
 [[main]]
   name = "Program"
-  url = "/"
+  url = "program/"
   weight = 40
 
 [[main]]
   name = "Organizers"
-  url = "/"
+  url = "organizers/"
   weight = 50
 
 [[main]]
   name = "Attend"
-  url = "/"
+  url = "attend/"
   weight = 60
 
 
 [[main]]
   name = "Awards"
-  url = "/"
+  url = "awards/"
   weight = 60
