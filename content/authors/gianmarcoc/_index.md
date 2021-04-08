@@ -6,12 +6,12 @@ title: Gianmarco Cherchi
 superuser: true
 
 # Role/position
-role: "?"
+role: "Researcher"
 
 
 # Organizations/Affiliations
 organizations:
-- name: "?"
+- name: "Dept. of Mathematics and Computer Science, University of Cagliari"
   url: ""
 
 

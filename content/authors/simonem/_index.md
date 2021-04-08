@@ -26,15 +26,15 @@ social:
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/moschella_luca
-# - icon: github
-  # icon_pack: fab
-  # link: https://www.linkedin.com/in/emilian-postolache
+- icon: github
+  icon_pack: fab
+  link: 'https://github.com/melzismn'
 # - icon: linkedin
 #   icon_pack: fab
-#   link: https://www.linkedin.com/in/lucamoschella
+#   link: 'https://www.linkedin.com/in/lucamoschella'
 - icon: home
   icon_pack: fa
-  link: https://sites.google.com/site/melzismn
+  link: 'https://sites.google.com/site/melzismn'
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
