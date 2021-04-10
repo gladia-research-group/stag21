@@ -11,6 +11,7 @@ design:
 # ... Put Your Section Options Here (title etc.) ...
 header:
   image: "header.png"
+
 ---
 
 **Smart Tools and Applications in Graphics (STAG)** is an annual international conference organized by the Italian Chapter of the Eurographics association.
