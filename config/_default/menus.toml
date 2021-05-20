@@ -15,21 +15,20 @@
 
 [[main]]
   name = "Call for papers"
-  url = "call_papers"
-
+#  url = "call_papers"
   weight = 30
 
-# [[main]]
-#   name = "Aim and scope"
-#   url = "call_papers/scope"
-#   weight = 10
-#   parent = "Call for papers"
+[[main]]
+  name = "Partecipate"
+  url = "call_papers"
+  weight = 10
+  parent = "Call for papers"
 
-# [[main]]
-#   name = "Submission"
-#   url = "call_papers/submission"
-#   weight = 20
-#   parent = "Call for papers"
+[[main]]
+  name = "Submission"
+  url = "call_papers/#submission"
+  weight = 20
+  parent = "Call for papers"
 
 [[main]]
   name = "Program"
