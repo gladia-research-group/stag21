@@ -15,6 +15,5 @@ design:
 ## Keynote
 
 
-Events: To fill using the "Event" page page types with "compat" visualization mode.
-
+TBA
 
