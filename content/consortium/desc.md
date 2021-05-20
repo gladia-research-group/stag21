@@ -11,6 +11,8 @@ design:
 # ... Put Your Section Options Here (title etc.) ...
 ---
 
+# STAG Doctoral Consortium
+
 The STAG Doctoral Consortium is a networking event that provides Ph.D. students, working in all areas of computer graphics, with an exciting opportunity to share their work and experience among their fellow Ph.D. students.
 The event aims to:
 
