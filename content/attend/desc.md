@@ -23,6 +23,9 @@ design:
 - Camera ready: October 19, 2021
 - Registration of speakers: October 19, 2021
 - Registration of participants: October 22, 2021
+- Conference days:
+    - Graduate school: October 26-27, 2021
+    - Conference: October 28-29, 2021
 
 ---
 
