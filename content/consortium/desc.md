@@ -19,3 +19,8 @@ The event aims to:
 - Foster discussion and exchange of ideas in a round table, to establish  collaborations among different research groups and propose new initiatives to improve the Ph.D. experience in the long term.
 
 - Provide participants with the opportunity of presenting their research work to an international audience, receiving feedback and mentoring, as well as a different perspective from researchers outside their home institution.
+
+
+## Program
+
+TBA
