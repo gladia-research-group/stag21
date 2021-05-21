@@ -12,10 +12,22 @@ design:
 ---
 
 
-# Important dates
+# Attend
+
+---
+
+**Important dates**
 
 - Paper submission: September 12, 2021
 - Notification: October 7, 2021
 - Camera ready: October 19, 2021
 - Registration of speakers: October 19, 2021
 - Registration of participants: October 22, 2021
+
+---
+
+## Register
+
+{{% callout note %}}
+TBA
+{{% /callout %}}
