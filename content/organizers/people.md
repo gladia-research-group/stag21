@@ -17,6 +17,7 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
   - Event Chairs
+  - Program Chairs
   - Thesis Award Committee
   - Ph.D. Consortium
   - Volunteers Chair
@@ -29,3 +30,6 @@ design:
   show_role: false
   show_social: true
 ---
+
+<!-- **Program Committee**
+ --><!-- todo deve andare in fondo -->
