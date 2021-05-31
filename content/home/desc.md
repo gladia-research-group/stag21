@@ -9,8 +9,6 @@ design:
   columns: '1'
 
 # ... Put Your Section Options Here (title etc.) ...
-header:
-  image: "header.png"
 ---
 
 
