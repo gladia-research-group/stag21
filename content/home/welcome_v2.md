@@ -5,7 +5,7 @@
 
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
-weight: 100  # Order that this section will appear.
+weight: 250  # Order that this section will appear.
 
 # subtitle: "Smart Tools and Applications in Graphics"
 # hero_media: welcome.jpg
