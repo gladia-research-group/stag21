@@ -34,5 +34,5 @@ We were planning to organize this event in person in Rome. Unfortunately due to 
 ## Register
 
 {{% callout note %}}
-TBA
+TBA: Stay tuned for updates!
 {{% /callout %}}

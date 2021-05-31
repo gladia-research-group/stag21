@@ -13,10 +13,10 @@ design:
 
 # Keynote Speakers
 {{% callout note %}}
-TBA
+TBA: Stay tuned for updates!
 {{% /callout %}}
 
 # Technical program
 {{% callout note %}}
-TBA
+TBA: Stay tuned for updates!
 {{% /callout %}}

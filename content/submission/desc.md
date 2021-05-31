@@ -29,9 +29,9 @@ design:
 
 Papers must be written in English and submitted in PDF format via EasyChair, following this [link](https://easychair.org/account/signin?l=FEfwkbFqMA43jg8XGZbx1D#). Each PDF should not exceed 10 pages in length (references excluded) and must be formatted according to the Eurographics Computer Graphics Forum publication guidelines. A LaTeX template for submitters is available here. Submitted papers will undergo a double-blind reviewing process. We therefore invite submitters to carefully remove all personal data from their articles (e.g., authors, affiliations, etc.).
 
-STAG proceedings are published in the Eurographics Digital Library.
+STAG proceedings are published in the [Eurographics Digital Library](https://diglib.eg.org/).
 
-Authors of a selection of the best papers will be invited to submit an extended version of their work to a **Special Issue of the Computers & Graphics Journal (Elsevier)**.
+Authors of a selection of the best papers will be invited to submit an extended version of their work to a Special Issue of the [Computers & Graphics Journal (Elsevier)](https://www.journals.elsevier.com/computers-and-graphics).
 
 
 

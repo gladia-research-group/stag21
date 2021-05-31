@@ -23,7 +23,7 @@ Authors are invited to submit original and unpublished research papers, in the f
 
 - *Short papers* (not exceeding 5 pages in length, excluding references) are expected to present ongoing research, possibly not mature enough for publication, but worth discussing with the community. The authors of accepted short papers will present their research in a dedicated session during the conference. The aim is to make the conference a meeting place between younger and experienced researchers in Computers Graphics.
 
-Additional details can be found [here](/submission).
+Additional details about the submission can be found [here](/submission).
 
 STAG is an annual international conference organized by the Italian Chapter of the Eurographics association. STAG has been running continuously since 2014: this edition will be the 8th in the series, and will be held virtually.
 
