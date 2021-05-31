@@ -9,13 +9,23 @@ design:
   columns: '1'
 
 # ... Put Your Section Options Here (title etc.) ...
+<<<<<<< HEAD
+=======
+header:
+  image: "header.png"
+
+>>>>>>> 37e6c62f1c46af36d388826ed8cad4396b940e6a
 ---
 
+<!-- Insert STAG Symbol at the left of the text -->
 
 **Smart Tools and Applications in Graphics (STAG)** is an annual international conference organized by the Italian Chapter of the Eurographics association.
 
-**Due to the COVID-19 outbreak, this year the Conference will be held in a fully online way on ...?**
 
-The aim of STAG is the dissemination of research activities and novel ideas on both theoretical and application oriented aspects of Computer Graphics, bringing together researchers and practitioners from both national and international scientific communities to share their latest developments.
+We were planning to organize this event in person in Rome. Unfortunately due to the COVID-19 outbreak, **STAG 2021 will be a purely remote event**. We are confident that the remote organization will give unique opportunities for communication and collaboration.
 
-This year we invite contributions in the form of full papers. The Conference will also host, as usual, the EG-Italy thesis award ceremony.
+
+The aim of STAG is the dissemination of research activities and novel ideas on both theoretical and application-oriented aspects of Computer Graphics, bringing together researchers and practitioners from both national and international scientific communities to share their latest developments.
+We invite contributions in the form of long or short papers as described on the [call for papers](/call_papers) page. **STAG 2021** will also host, as usual, the [Graduate School](/school), the [EG-Italy thesis award](/awards) ceremony and the new [PhD consortium](/consortium).
+
+
