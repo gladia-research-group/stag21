@@ -9,12 +9,9 @@ design:
   columns: '1'
 
 # ... Put Your Section Options Here (title etc.) ...
-<<<<<<< HEAD
-=======
 header:
   image: "header.png"
 
->>>>>>> 37e6c62f1c46af36d388826ed8cad4396b940e6a
 ---
 
 <!-- Insert STAG Symbol at the left of the text -->
