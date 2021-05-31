@@ -14,6 +14,8 @@ design:
 
 # Attend
 
+We were planning to organize this event in person in Rome. Unfortunately due to the COVID-19 outbreak, STAG 2021 will be a purely remote event. We are confident that the remote organization will give unique opportunities for communication and collaboration.
+
 ---
 
 **Important dates**
