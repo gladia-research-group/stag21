@@ -3,66 +3,20 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-#[[main]]
-#  name = "Home"
-#  url = "/"
-#  weight = 10
-
-# [[main]]
-#   name = "Home"
-#   url = "/"
-#   weight = 20
-
 [[main]]
   name = "Call for papers"
-  url = "call_papers"
+  url = "call_papers/"
   weight = 30
 
 [[main]]
   name = "Submission"
-  url = "submission"
+  url = "submission/"
   weight = 35
-
-# [[main]]
-#   name = "Partecipate"
-#   url = "call_papers"
-#   weight = 10
-#   parent = "Call for papers"
-#
-# [[main]]
-#   name = "Submission"
-#   url = "call_papers/#submission"
-#   weight = 20
-#   parent = "Call for papers"
 
 [[main]]
   name = "Program"
-  url = "program"
+  url = "program/"
   weight = 40
-
-#[[main]]
-#  name = "Keynote Speakers"
-#  url = "program/keynote"
-#  weight = 10
-#  parent = "Program"
-#
-#[[main]]
-#  name = "Technical Program"
-#  url = "program/technical"
-#  weight = 20
-#  parent = "Program"
-
-
-[[main]]
-  name = "Graduate School"
-  url = "school"
-  weight = 45
-
-
-[[main]]
-  name = "Organizers"
-  url = "organizers/"
-  weight = 0
 
 [[main]]
   name = "Attend"
@@ -70,23 +24,21 @@
   weight = 42
 
 [[main]]
-  name = "Ph.D. Consortium"
-  url = "consortium/"
-  weight = 70
-
-# [[main]]
-#   name = "Registration"
-#   weight = 10
-#   url = "attend/registration"
-#   parent = "Attend"
-
-# [[main]]
-#   name = "Conference Venue"
-#   weight = 20
-#   url = "attend/venue"
-#   parent = "Attend"
+  name = "Graduate School"
+  url = "school/"
+  weight = 45
 
 [[main]]
   name = "Awards"
   url = "awards/"
   weight = 70
+
+[[main]]
+  name = "Ph.D. Consortium"
+  url = "consortium/"
+  weight = 80
+
+[[main]]
+  name = "Organizers"
+  url = "organizers/"
+  weight = 100
