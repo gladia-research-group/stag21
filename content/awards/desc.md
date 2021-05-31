@@ -46,8 +46,9 @@ The Thesis Awards Committee will be selected between the members of STAG 2021 Te
 
 ## Thesis Award Co-chairs
 
-- Gianmarco Cherchi, University of Cagliari
-- Luca Cosmo, Sapienza University of Rome
+
+- {{% mention "gianmarcoc" %}}, University of Cagliari
+- {{% mention "lucac" %}}, Sapienza University of Rome
 
 
 
