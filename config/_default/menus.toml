@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Call for papers"
+  name = "Call&nbsp;for&nbsp;papers"
   url = "call_papers/"
   weight = 30
 
@@ -24,7 +24,7 @@
   weight = 42
 
 [[main]]
-  name = "Graduate School"
+  name = "Graduate&nbsp;School"
   url = "school/"
   weight = 45
 
@@ -34,7 +34,7 @@
   weight = 70
 
 [[main]]
-  name = "Ph.D. Consortium"
+  name = "Ph.D.&nbsp;Consortium"
   url = "consortium/"
   weight = 80
 
