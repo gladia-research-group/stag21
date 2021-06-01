@@ -20,7 +20,6 @@ The event aims to:
 
 - Provide participants with the opportunity of presenting their research work to an international audience, receiving feedback and mentoring, as well as a different perspective from researchers outside their home institution.
 
-
 ## Program
 
 {{% callout note %}}
