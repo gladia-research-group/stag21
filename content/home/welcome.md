@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: "Smart Tools and Applications in Graphics"
 # subtitle: "Smart Tools and Applications in Graphics"
-# hero_media: welcome.jpg
+
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -31,11 +31,11 @@ design:
 
 cta:
   url: 'call_papers'
-  label: Call for Papers
+  label: Call for papers
   icon_pack: fas
   icon: bullhorn
 
 advanced:
-  css_style:
+  css_style: 
   css_class:
 ---
