@@ -1,0 +1,30 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: "Call&nbsp;for&nbsp;papers"
+    url: 'call_papers'
+    weight: 30
+  - name: Submission
+    url: 'submission'
+    weight: 35
+  - name: Program
+    url: 'program'
+    weight: 40
+  - name: Attend
+    url: 'attend'
+    weight: 42
+  - name: "Graduate&nbsp;School"
+    url: 'school'
+    weight: 45
+  - name: Awards
+    url: 'awards'
+    weight: 70
+  - name: "Ph.D.&nbsp;Consortium"
+    url: 'consortium'
+    weight: 80
+  - name: Organizers
+    url: 'organizers'
+    weight: 100
