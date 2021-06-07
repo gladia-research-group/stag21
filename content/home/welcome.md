@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: "Smart Tools and Applications in Graphics"
 # subtitle: "Smart Tools and Applications in Graphics"
-
+hero_media: logo_big2.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -16,7 +16,7 @@ design:
     # Name of image in `assets/media/`.
     image: rome.jpg
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-    image_darken: 0.6
+    image_darken: 0.4
     #  Options are `cover` (default), `contain`, or `actual` size.
     image_size: cover
     # Options include `left`, `center` (default), or `right`.
@@ -27,7 +27,7 @@ design:
     text_color_light: true
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["10rem", "0", "10rem", "0"]
+    padding: ["6rem", "0", "6rem", "0"]
 
 cta:
   url: 'call_papers'
@@ -36,6 +36,7 @@ cta:
   icon: bullhorn
 
 advanced:
-  css_style: 
-  css_class:
+  css_style: ''
+  css_class: ''
 ---
+
