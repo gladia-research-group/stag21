@@ -35,6 +35,9 @@ cta:
   icon_pack: fas
   icon: bullhorn
 
+cta_alt:
+  label: 26-29 October 2021
+
 advanced:
   css_style: ''
   css_class: ''
