@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: "Smart Tools and Applications in Graphics"
 
-hero_media: logo_big2.png
+hero_media: Logo_STAG_def_white.svg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
