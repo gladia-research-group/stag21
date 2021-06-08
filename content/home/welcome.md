@@ -7,7 +7,7 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: "Smart Tools and Applications in Graphics"
-subtitle: "26-29 October 2021"
+
 hero_media: logo_big2.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -40,3 +40,4 @@ advanced:
   css_class: ''
 ---
 
+26-29 October 2021
