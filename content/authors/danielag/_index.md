@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Daniela Giorgia
+title: Daniela Giorgi
 
 # Is this the primary user of the site?
 superuser: true
