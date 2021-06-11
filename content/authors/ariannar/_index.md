@@ -6,7 +6,7 @@ title: Arianna Rampini
 superuser: true
 
 # Role/position
-role: Ph.D. in Computer Science
+role: Ph.D. student in Computer Science
 
 
 # Organizations/Affiliations
