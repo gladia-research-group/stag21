@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Daniela Cabiddu
+title: Cabiddu Daniela
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Administation
+# role: Administation
 
 
 # Organizations/Affiliations
 organizations:
-- name: CNR IMATI
+- name: CNR-IMATI
 
 
 #social:

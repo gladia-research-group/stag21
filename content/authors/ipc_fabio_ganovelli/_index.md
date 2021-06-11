@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Fabio Ganovelli
+title: Ganovelli Fabio
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Administation
+# role: Administation
 
 
 # Organizations/Affiliations
 organizations:
-- name: Visual Computing Laboratory, ISTI-CNR
+- name: CNR-ISTI
 
 
 #social:

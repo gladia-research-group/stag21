@@ -1,7 +1,7 @@
 from pathlib import Path
 import csv
 
-file_names = Path('/home/luca/Desktop/committee.csv')
+file_names = Path('/home/luca/Desktop/ipc.csv')
 authors_path = Path('/home/luca/Repositories/stag21/content/authors')
 author_page = """---
 # Display name
@@ -11,7 +11,7 @@ title: {} {}
 superuser: false
 
 # Role/position
-role: Administation
+# role: Administation
 
 
 # Organizations/Affiliations
@@ -50,7 +50,7 @@ with file_names.open() as f:
         author_folder_name =  authors_path / f'ipc_{name.lower()}_{surname.lower()}'
         author_folder_name.mkdir(exist_ok=True)
 
-        author_page_formatted = author_page.format(name, surname, affiliation)
+        author_page_formatted = author_page.format(surname, name, affiliation)
 
         author_file_name = author_folder_name / '_index.md'
         author_file_name.write_text(author_page_formatted)

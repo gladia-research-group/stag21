@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Prashant Goswami
+title: Goswami Prashant
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Administation
+# role: Administation
 
 
 # Organizations/Affiliations
