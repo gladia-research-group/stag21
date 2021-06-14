@@ -11,7 +11,7 @@ superuser: false
 
 # Organizations/Affiliations
 organizations:
-- name: Univeristy of Verona
+- name: University of Verona
 
 
 #social:
