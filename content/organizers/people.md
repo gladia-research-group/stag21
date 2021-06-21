@@ -29,7 +29,7 @@ design:
   show_organizations: true
   show_interests: false
   show_role: false
-  show_social: true
+  show_social: false
 ---
 
 <!-- **Program Committee**
