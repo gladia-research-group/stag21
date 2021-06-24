@@ -20,7 +20,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  placement: 4
+  placement: 1
   preview_only: true
   focal_point: "Smart"
   alt_text: A humanized armadillo standing in a simulated rectangular water body
