@@ -20,10 +20,10 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  placement: 3
+  placement: 1
   preview_only: true
   focal_point: "Smart"
-  alt_text: A two row gallery with three female (top row) and male (bottom row) faces looking in different directions with different lighting conditions.
+  alt_text: A two row gallery with three female (top Row) and male (bottom row) faces looking in different directions with different lighting conditions.
 
 url_code: ""
 url_pdf: ""
