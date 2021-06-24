@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Rana Hanocka
+title: Nicholas Sharp
 
 # Is this the primary user of the site?
 superuser: false
@@ -11,22 +11,24 @@ superuser: false
 
 # Organizations/Affiliations
 organizations:
-- name: University of Chicago
-
+- name: Carnegie Mellon University
 
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:ranahanocka@uchicago.edu
+  link: mailto:nsharp@cs.cmu.edu
 - icon: home
   icon_pack: fa
-  link: https://people.cs.uchicago.edu/~ranahanocka/
+  link: https://nmwsharp.com/
 - icon: github
   icon_pack: fab
-  link: https://github.com/ranahanocka
-- icon: linkedin
+  link: https://github.com/nmwsharp/
+- icon: twitter
   icon_pack: fab
-  link: https://www.linkedin.com/in/ranahanocka/
+  link: https://twitter.com/nmwsharp
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/nmwsharp
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: ""

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Rana Hanocka
+title: Chris Wojtan
 
 # Is this the primary user of the site?
 superuser: false
@@ -11,25 +11,17 @@ superuser: false
 
 # Organizations/Affiliations
 organizations:
-- name: University of Chicago
+- name:  IST Austria
 
 
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:ranahanocka@uchicago.edu
+  link: mailto:wojtan@ist.ac.at
 - icon: home
   icon_pack: fa
-  link: https://people.cs.uchicago.edu/~ranahanocka/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/ranahanocka
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/ranahanocka/
+  link: https://pub.ist.ac.at/group_wojtan/
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
