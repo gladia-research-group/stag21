@@ -27,7 +27,7 @@ design:
   view: 2
 ---
 
-# Technical program
+# Technical Program
 {{% callout note %}}
 TBA: Stay tuned for updates!
 {{% /callout %}}
