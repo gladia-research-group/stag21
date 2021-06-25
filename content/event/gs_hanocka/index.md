@@ -34,5 +34,5 @@ categories:
 - Graduate School
 
 authors:
-- Rana Hanocka
+- "Rana Hanocka"
 ---
