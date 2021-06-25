@@ -19,7 +19,7 @@ social:
   link: mailto:duygu.ceylan@gmail.com
 - icon: home
   icon_pack: fa
-  link: https://research.adobe.com/person/duygu-ceylan/
+  link: http://www.duygu-ceylan.com/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: ""
