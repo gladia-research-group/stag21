@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ceylan Duygu
+title: Duygu Ceylan
 
 # Is this the primary user of the site?
 superuser: false
@@ -19,7 +19,7 @@ social:
   link: mailto:duygu.ceylan@gmail.com
 - icon: home
   icon_pack: fa
-  link: http://www.duygu-ceylan.com/
+  link: https://research.adobe.com/person/duygu-ceylan/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: ""
