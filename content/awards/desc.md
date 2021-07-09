@@ -23,8 +23,8 @@ Awarded researchers will be announced in a dedicated session of the STAG 2021 Co
 We invite nominations of young researchers whose PhD/MS/BS thesis respect the following requirements:
 
 - Subject in Computer Graphics, Image Processing, Visualization, Computer Vision, Virtual and Augmented Reality, Fabrication (in general all topics covered by Eurographics / Siggraph call for papers)
-- Research mainly conducted in Italy or in collaboration with Italian institutes (at least one advisor must be affiliated to an Italian institute)
-- Diploma granted between January 1st 2020 and July 31st, 2021.
+- Research mainly conducted in Italy or in collaboration with Italian institutes (at least one supervisor must be affiliated to an Italian institute)
+- Diploma granted between **January 1st 2020** and **July 31st, 2021**.
 
 
 ## Submission
@@ -33,7 +33,8 @@ To participate to the contest, researchers need to provide the following documen
 
 - The name and affiliation of the candidate
 - A pdf version of the Thesis (in English or Italian)
-- The name of advisors
+- Eventual slides of the Thesis presentation/defense in pdf format
+- The name of supervisors
 - Explicit mention of which publications resulted from the Thesis.
 
 **The documentation of candidate nominations must be sent to the Thesis Awards chairs, Gianmarco Cherchi (g.cherchi@unica.it) and Luca Cosmo (cosmo@di.uniroma1.it), not later than August 31st, 2021.**

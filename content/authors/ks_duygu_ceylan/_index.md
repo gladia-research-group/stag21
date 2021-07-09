@@ -29,3 +29,10 @@ social:
 user_groups:
 - Keynote Speaker
 ---
+Duygu Ceylan is a senior research scientist at Adobe Research.
+Prior to joining Adobe in 2014, she obtained her PhD degree from EPFL
+where she worked with Prof. Mark Pauly. Her research interests include
+using machine learning techniques to infer and analyze 3D information
+from images and videos, focusing specifically on humans. She is
+excited to work at the intersection of computer vision and graphics
+where she looks for new methods to bridge the gap between 2D & 3D.

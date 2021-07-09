@@ -1,5 +1,5 @@
 ---
-title: TBA
+title: Machine Learning for Smart Characters
 
 # Summary for listings and search engines
 abstract: TBA
