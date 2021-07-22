@@ -12,4 +12,4 @@ design:
 # Graduate School
 Following the tradition of STAG, the colocated Graduate School features several lectures in various topics in the field, held by world-class experts and lead researchers in the respective discipline.
 
-The school is addressed to PhD students and other postgraduate students, with an interest in Computer Graphics. The grad school will be held remotely and the registration is mandatory. All the details can be found here.
+The school is addressed to PhD students and other postgraduate students, with an interest in Computer Graphics.  The grad school will be held remotely and the registration is mandatory. All the details can be found [here](/attend). 
