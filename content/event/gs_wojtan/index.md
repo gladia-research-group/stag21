@@ -1,8 +1,8 @@
 ---
-title: Fluids and physical simulations
+title: Fluids and Physical Simulations
 
 # Summary for listings and search engines
-abstract: TBA
+abstract: This lecture teaches how to apply Newton's laws to build up a framework for a physics simulation, and then gives a gentle introduction to numerical integration for animating common physics systems with a few interactive examples. After laying down the basics, we dive into the equations describing fluid flow --- the Navier-Stokes equations. We build up a geometric intuition for each of the terms in these equations, and then we explain the main ideas behind the current state-of-the-art methods for animating fluids in the field of computer graphics. We end by covering the special case of water surface waves, introducing some cutting-edge concepts which have been published in Transactions on Graphics and featured in SIGGRAPH's "Real time Live!" as well as a number of video games and motion pictures.
 
 # Date published
 date: "2021-10-26T00:00:00Z"

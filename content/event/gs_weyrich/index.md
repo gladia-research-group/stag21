@@ -33,6 +33,6 @@ url_video: ""
 categories:
 - Graduate School
 
-authors:
-- Tim Weyrich
+#authors:
+#- Tim Weyrich
 ---
