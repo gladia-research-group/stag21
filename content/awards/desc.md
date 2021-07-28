@@ -48,8 +48,8 @@ The Thesis Awards Committee will be selected between the members of STAG 2021 Te
 ## Thesis Award Co-chairs
 
 
-- {{% mention "gianmarcoc" %}}, University of Cagliari
-- {{% mention "lucac" %}}, Sapienza University of Rome
+- {{% mention "gianmarco-cherchi" %}}, University of Cagliari
+- {{% mention "luca-cosmo" %}}, Sapienza University of Rome
 
 
 
