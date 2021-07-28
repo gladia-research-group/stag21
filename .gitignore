@@ -3,6 +3,6 @@
 
 
 # Hugo
-/resources/
+#/resources/
 public/
 assets/jsconfig.json
