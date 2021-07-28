@@ -5,11 +5,11 @@ title: Tim Weyrich
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position
-# role: Administation
+# # Role/position
+role: Administation
 
 
-# Organizations/Affiliations
+# # Organizations/Affiliations
 organizations:
 - name: University College London
 

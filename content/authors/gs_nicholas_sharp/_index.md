@@ -5,11 +5,11 @@ title: Nicholas Sharp
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position
+# # Role/position
 # role: Administation
 
 
-# Organizations/Affiliations
+# # Organizations/Affiliations
 organizations:
 - name: Carnegie Mellon University
 
@@ -30,8 +30,8 @@ social:
   icon_pack: fab
   link: https://www.youtube.com/nmwsharp
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: ""
+# # Enter email to display Gravatar (if Gravatar enabled in Config)
+# # email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

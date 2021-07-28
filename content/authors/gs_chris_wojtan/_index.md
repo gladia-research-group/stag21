@@ -3,15 +3,14 @@
 title: Chris Wojtan
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
-# Role/position
-# role: Administation
+# # Role/position
+role: Administation
 
-
-# Organizations/Affiliations
+# # Organizations/Affiliations
 organizations:
-- name:  IST Austria
+- name: IST Austria
 
 
 social:

@@ -2,7 +2,7 @@
 title: Trade-offs in appearance capture and representation
 
 # Summary for listings and search engines
-abstract: TBA
+abstract: Algorithms for scene understanding and realistic image synthesis require accurate models of the way real-world materials scatter light. In this lecture, we describe recent work in the graphics community to measure the spatially- and directionally-varying reflectance and subsurface scattering of complex materials, and to develop efficient representations and analysis tools for these datasets. We describe the design of acquisition devices and capture strategies for reflectance functions such as BRDFs and BSSRDFs, efficient factored representations, and a case study of capturing the appearance of human faces.
 
 # Date published
 date: "2021-10-26T00:00:00Z"
@@ -33,6 +33,6 @@ url_video: ""
 categories:
 - Graduate School
 
-#authors:
-#- Tim Weyrich
+authors:
+- Tim Weyrich
 ---

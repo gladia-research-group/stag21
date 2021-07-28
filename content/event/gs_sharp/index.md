@@ -33,6 +33,6 @@ url_video: ""
 categories:
 - Graduate School
 
-#authors:
-#- Nicholas Sharp
+authors:
+- Nicholas Sharp
 ---
