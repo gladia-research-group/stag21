@@ -11,7 +11,7 @@ superuser: false
 
 # # Organizations/Affiliations
 organizations:
-- name: Carnegie Mellon Universityy
+- name: Carnegie Mellon University
 
 social:
 - icon: envelope
