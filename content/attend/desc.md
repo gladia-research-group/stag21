@@ -37,7 +37,8 @@ The STAG Organization is pleased to announce that registration for STAG 2021 is 
 
 The conference will run as a fully virtual event and this page will provide registration information and the registration link for STAG 2021.
 
-<button type="button" class="btn btn-primary px-3 py-3" style="text-align: center;">REGISTER HERE!</button> 
+<button type="button" class="btn btn-primary px-3 py-3" style="margin:auto;
+  display:block;">REGISTER HERE!</button> 
 
 General Information and fees:
 - One author of each accepted paper must register and attend to present the paper. If more than one author attends, then each author must register separately
