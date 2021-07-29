@@ -36,10 +36,6 @@ We were planning to organize this event in person in Rome. Unfortunately due to 
 The STAG Organization is pleased to announce that registration for STAG 2021 is open now!
 
 The conference will run as a fully virtual event and this page will provide registration information and the registration link for STAG 2021.
-<!-- <form action="https://google.com">
-
-<button href="https://google.com" type="button" class="btn btn-primary px-3 py-3" style="margin:auto;
-  display:block;">REGISTER HERE!</button> -->
 <form action="https://events.eg.org/STAG2021">
     <input type="submit" value="REGISTER HERE!" class="btn btn-primary px-3 py-3" style="margin:auto;
   display:block;"/>
