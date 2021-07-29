@@ -33,6 +33,14 @@ We were planning to organize this event in person in Rome. Unfortunately due to 
 
 ## Register
 
-{{% callout note %}}
-TBA: Stay tuned for updates!
-{{% /callout %}}
+The STAG Organization is pleased to announce that registration for STAG 2021 is open now!
+
+The conference will run as a fully virtual event and this page will provide registration information and the registration link for STAG 2021.
+
+General Information and fees:
+- One author of each accepted paper must register and attend to present the paper. If more than one author attends, then each author must register separately
+- Accepted papers must be registered by the camera ready deadline (October 19th) through the following link
+- The paper registration fee is **70€** both for papers accepted as full and poster.
+- For students wishing to attend the PHD school the fee is **10€**.
+- There is **no registration fee** for attendees but all attendees are requested to register to the conference.
+- Photos (screenshots), videos, and sound recordings may be made during the event. As a participant of STAG 2021 you agree that such material may be reproduced, published (also in electronic form) or duplicated by the organizers.
