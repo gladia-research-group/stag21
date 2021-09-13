@@ -17,7 +17,7 @@ design:
 **Important dates**
 
 - <span style="color:red">Paper submission (Extended): September 19, 2021</span>
-- Notification: October 7, 2021
+- <span style="color:red">Notification: October 11, 2021</span>
 - Camera ready: October 19, 2021
 - Registration of speakers: October 19, 2021
 - Registration of participants: October 22, 2021
