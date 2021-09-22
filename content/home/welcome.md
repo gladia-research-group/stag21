@@ -41,6 +41,5 @@ advanced:
 ---
 
 26-29 October 2021
-
-<strong>Paper submission extended to</strong> \
-<strong>19 September 2021</strong>
+<!-- <strong>Paper submission extended to</strong> \
+<strong>19 September 2021</strong> -->
