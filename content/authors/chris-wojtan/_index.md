@@ -3,10 +3,10 @@
 title: Chris Wojtan
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # # Role/position
-role: Administation
+# role: Administation
 
 # # Organizations/Affiliations
 organizations:
