@@ -11,7 +11,7 @@ superuser: false
 
 # Organizations/Affiliations
 organizations:
-- name: CRS4
+- name: KAUST
 
 
 #social:
