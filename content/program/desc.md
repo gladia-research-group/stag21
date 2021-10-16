@@ -10,4 +10,4 @@ design:
 ---
 
 # Keynote Speakers
-
+All times are in **Italian time zone** (UTC+2, CEST).

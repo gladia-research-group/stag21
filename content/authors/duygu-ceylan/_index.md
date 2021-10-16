@@ -11,7 +11,7 @@ superuser: false
 
 # Organizations/Affiliations
 organizations:
-- name: IST Austria
+- name: Adobe Research
 
 social:
 - icon: envelope

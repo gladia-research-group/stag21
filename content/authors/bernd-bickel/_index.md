@@ -19,7 +19,7 @@ social:
   link: mailto:bernd.bickel@ist.ac.at
 - icon: home
   icon_pack: fa
-  link: berndbickel.com
+  link: http://www.berndbickel.com
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: ""
