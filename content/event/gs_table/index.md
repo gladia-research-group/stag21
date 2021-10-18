@@ -5,8 +5,8 @@ title: Round Table
 # abstract: 
 
 # Date published
-date: "2021-10-27T14:15:00Z"
-date_end: "2021-10-27T16:15:00Z"
+date: "2021-10-27T16:15:00Z"
+date_end: "2021-10-27T18:15:00Z"
 # all_day: true
 
 publishDate: "2021-06-21T00:00:00Z"
