@@ -43,7 +43,9 @@ Nominations can be sent by the candidate, the supervisor, or any other researche
 
 ## Committee
 
-The Thesis Awards Committee will be selected between the members of STAG 2021 Technical committee. The Committee will consider the quality of the work, the review reports, the quality and impact of the publications derived from the Thesis, the completeness and coherence of the state of the art section in the Thesis, and any other relevant aspect of the work.
+The Thesis Award Committee is composed by members of the international communities of the topics covered by the STAG conference. The Committee will consider the quality of the work, the review reports, the quality and impact of the publications derived from the Thesis, the completeness and coherence of the state of the art section in the Thesis, and any other relevant aspect of the work.
+
+Thesis Award Committee members: M. Agus (HBK University), D. Allegra (UNICT), F. Banterle (CNR-ISTI), D. Cabiddu (CNR-IMATI), A. Caputo (UNIVR), P. Cignoni (CNR-ISTI), V. Garro (BTH), A. Giachetti (UNIVR), P. Goswami (BTH), A. Jaspe (HPVG Kaust), F. Laccone (CNR-ISTI), Z. Lähner (Munich University), A. Loddo (UNICA), M. Mortara (CNR-IMATI), A. Muntoni (CNR-ISTI), G. Patane' (CNR-IMATI), F. Pellacini (Sapienza Roma), G. Pintore (CRS4), R. Pintus (CRS4), M. Potenziani (CNR-ISTI), R. Scateni (UNICA), A. Signoroni (UNIBS), L. D. Spano (UNICA),  M. Stamminger (LGDV), F. Stanco (UNICT), M .Tarini (UNIMI), P. Vázquez (ViRVIG).
 
 ## Thesis Award Co-chairs
 
