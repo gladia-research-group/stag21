@@ -5,6 +5,7 @@ title: Machine Learning for Smart Characters
 abstract: "We are living in an era where the digital world is becoming an inevitable part of our professional and daily lives. Digital creation tools are essential for many professions including design, entertainment, gaming etc. In our daily lives, we all take many pictures or capture many videos each day to record and share our memories. There is a stronger demand to transform such digital workflows into life-like experiences. My research focuses on enabling such a transformation by developing computational 3D perception tools to reason about the physical environment, people, objects, and how
 they interact with each other. In this talk, I will focus on some of my recent work in the context of developing smart algorithms to create plausible and dynamic 3D characters with rich garment details, vivid secondary dynamics, and physically plausible animation."
 
+
 # Date published
 date: "2021-10-29T16:00:00Z"
 date_end: "2021-10-29T17:00:00Z"

@@ -9,6 +9,7 @@ Switching gears, I will also touch on the appearance editing of head portraits. 
 
 Finally, I will reflect on the successes and challenges of data-driven design, contrast this approach with our most recent work on the rigorous geometric characterization of the planar elastic rods' design space, and discuss opportunities for further work in this area."
 
+
 # Date published
 date: "2021-10-28T16:00:00Z"
 date_end: "2021-10-28T17:00:00Z"
@@ -34,6 +35,7 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+
 
 categories:
 - Keynote Talks

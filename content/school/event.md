@@ -11,7 +11,7 @@ content:
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order. Descending (desc) or ascending (asc) date.
-  order: desc
+  order: asc
   # Optionally filter posts by a taxonomy term.
   filters:
     category: 'Graduate School'

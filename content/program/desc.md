@@ -8,6 +8,5 @@ design:
   columns: '1'
 
 ---
-
-# Keynote Speakers
+# Program
 All times are in **Italian time zone** (UTC+2, CEST).
