@@ -33,7 +33,7 @@ design:
   - 9:40 - 10:00 Claudio Mancinelli and Enrico Puppo: *Straightedge and Compass Constructions on Surfaces*
   - 10:00 - 10:20 Tommaso Sorgente, Silvia Biasotti and Michela Spagnuolo: *A Geometric Approach for Computing the Kernel of a Polyhedron*
   - 10:20 - 10:40 Pietro Musoni, Riccardo Marin, Simone Melzi and Umberto Castellani: *Reposing and retargeting unrigged characters with intrinsic-extrinsic transfer*
-  - 10:40 - 11:00 Barak Or, Ido Amos and Liam Hazan: LengthNet: *Length Learning for Planar Euclidean Curves*
+  - 10:40 - 11:00 Barak Or and Ido Amos: LengthNet: *Length Learning for Planar Euclidean Curves*
 - **11:00 - 11:20 Break**
 - **11:20 - 12:40 Full papers 2: Modeling, Reconstruction and Applications**
   - 11:20 -  11:40 Marianna Miola, Michela Mortara, Daniela Cabiddu, Simone Pittaluga, Marino Vetuschi Zuccolini and Gianmario Imitazione: *3D modeling and integration of heterogeneous geo-data*
