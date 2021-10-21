@@ -86,7 +86,6 @@ design:
   - 11:35 - 11:50 Simone Arriu, Gianmarco Cherchi and Lucio Davide Spano: **ProtoSketchAR: Prototyping in Augmented Reality via Sketching**
   - 11:50 - 12:05 Arslan Siddique, Massimiliano Corsini, Fabio Ganovelli and Paolo Cignoni: **Evaluating Deep Learning methods for low resolution point cloud registration in outdoor scenarios**
   - 12:05 - 12:20 Luca Calatroni, Martin Huska, Serena Morigi and Giuseppe Recupero: **A variational framework for surface denoising, inpainting and completion**
-  NON VUOLE ANDARE SU PROCEEDINGS
 
 
 - 12:20 - 14:00 **Lunch break**
