@@ -30,6 +30,12 @@ We look forward to meeting you there!
 
 ## Program
 
-{{% callout note %}}
-TBA
-{{% /callout %}}
+The Consortium will consist of two sessions according to the following schedule:
+
+#### October 26th 10:00 AM - 12:00 AM
+
+*Meeting session*. This time will be devoted to getting to know each other. In order to facilitate the discussion, we kindly ask you to prepare a brief presentation (about 5 minutes) to introduce yourself and your path as a Ph.D. student. You may talk about your academic experience, your research interests, or whatever you fancy. You are free and encouraged to prepare a few slides or any other kind of visual support for your presentation. 
+
+#### October 27th 8:50 AM - 10:20 AM 
+
+*Mentorship session*. Two senior researchers will give a talk about their career experience. The guests will be Enrico Puppo, full professor at the University of Genova, and Zorah Lähner, postDoc at the University of Siegen. A discussion will follow where we can ask questions concerning our future in industry or academia. Therefore, do not hesitate to prepare any question you like, concerning your career perspective after the Ph.D.!
