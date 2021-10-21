@@ -30,7 +30,7 @@ We look forward to meeting you there!
 
 ## Program
 
-The Consortium will consist of two sessions according to the following schedule:
+The Consortium will consist of two sessions according to the following schedule. All times are in **Italian time zone** (UTC+2, CEST).
 
 #### October 26th 10:00 AM - 12:00 AM
 
