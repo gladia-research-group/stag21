@@ -30,7 +30,7 @@ design:
 
 ### Thursday, October 28, 2021
 
-- 9:30 - 9:40 Opening 
+- 9:30 - 9:40 **Opening**
 
 - #### 9:40 - 11:00 Full papers 1: Geometry
 
@@ -40,7 +40,7 @@ design:
   - 10:40 - 11:00 Barak Or, Ido Amos and Liam Hazan: LengthNet: *Length Learning for Planar Euclidean Curves*
 
 
-- 11:00 - 11:20 Break
+- 11:00 - 11:20 **Break**
 
 - #### 11:20 - 12:40 Full papers 2: Modeling, Reconstruction and Applications
 
@@ -49,7 +49,7 @@ design:
   - 12:00 - 12:20 Jaya Sreevalsan-Nair, Pragyan Mohapatra and Satendra Singh: *IMGD: Image-based Multiscale Global Descriptors of Airborne LIDAR Point Clouds*
   - 12:20 - 12:40 Nauman Ullah Gilal, Khaled Al-Thelaya, Jens Schneider, James She and Marco Agus: *SlowDeepFood: a food computing framework for regional gastronomy*
 
-- 12:40 - 14:00 Lunch break
+- 12:40 - 14:00 **Lunch break**
 
 - 14:00 - 15:00 Keynote 1: Bernd Bickel: *Computational and Data-driven Design Spaces: From designing shells and elastic curves to appearance editing of human faces in GAN space*
 
@@ -60,7 +60,7 @@ design:
   - 15:30 - 15:45 Stefan Zellmann: *Remote Volume Rendering with a Decoupled, Ray-Traced Display Phase*
   - 15:45 - 16:00 Daniele Fornari, Luigi Malomo and Paolo Cignoni: *A High Quality 3D Controller for Mobile and Desktop Web Applications*
 
-- 16:00 - 16:20 Break
+- 16:00 - 16:20 **Break**
 
 - #### 16:20 - 17:20 Full Papers 3: Augmented and Virtual Reality
 
@@ -70,7 +70,7 @@ design:
 
 ### Friday, October 29, 2021
 
-- 9:50 - 10:00 Opening
+- 9:50 - 10:00 **Opening**
 
 - #### 10:00 - 11:00 Full Papers 4: Visualization
 
@@ -78,7 +78,7 @@ design:
   - 10:20 - 10:40 Ethan Waterink, Jiri Kosinka and Steffen Frey: *Visual Analysis of Popping in Progressive Visualization*
   - 10:40 - 11:00 Jingyi Shen and Han-Wei Shen: *An Information-theoretic Visual Analysis Framework for Convolutional Neural Networks*
 
-- 11:00 - 11:20 Break
+- 11:00 - 11:20 **Break**
 
 - #### 11:20 - 12:20 Short Papers 2: Miscellaneous
 
@@ -88,12 +88,12 @@ design:
   - 12:05 - 12:20 Luca Calatroni, Martin Huska, Serena Morigi and Giuseppe Recupero: *A variational framework for surface denoising, inpainting and completion*
 
 
-- 12:20 - 14:00 Lunch break
+- 12:20 - 14:00 **Lunch break**
 
-- 14:00 - 15:00 Keynote 2: Duygu Ceylan: *Machine Learning for Smart Characters*
+- 14:00 - 15:00 **Keynote 2**: Duygu Ceylan: *Machine Learning for Smart Characters*
 
-- 15:00 - 15:10 Best paper awards
+- 15:00 - 15:10 **Best paper awards**
 
-- 15:10 - 16:10 Best thesis awards
+- 15:10 - 16:10 **Best thesis awards**
 
-- 16:10 - 16:20 Closing
+- 16:10 - 16:20 **Closing**
