@@ -23,7 +23,7 @@ content:
   - Volunteers Chair
   - Web Chairs
   - Administration
-  - International program committee (tentative)
+  - International program committee
 
 design:
   show_organizations: true

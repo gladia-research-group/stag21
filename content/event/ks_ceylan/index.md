@@ -7,8 +7,8 @@ they interact with each other. In this talk, I will focus on some of my recent w
 
 
 # Date published
-date: "2021-10-29T16:00:00Z"
-date_end: "2021-10-29T17:00:00Z"
+date: "2021-10-29T14:00:00Z"
+date_end: "2021-10-29T15:00:00Z"
 # all_day: true
 
 publishDate: "2021-06-21T00:00:00Z"

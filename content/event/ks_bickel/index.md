@@ -11,8 +11,8 @@ Finally, I will reflect on the successes and challenges of data-driven design, c
 
 
 # Date published
-date: "2021-10-28T16:00:00Z"
-date_end: "2021-10-28T17:00:00Z"
+date: "2021-10-28T14:00:00Z"
+date_end: "2021-10-28T15:00:00Z"
 # all_day: true
 
 publishDate: "2021-06-21T00:00:00Z"
