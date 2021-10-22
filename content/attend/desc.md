@@ -22,9 +22,9 @@ We were planning to organize this event in person in Rome. Unfortunately due to 
 
 - <span style="text-decoration: line-through">Paper submission (Extended): September 19, 2021</span>
 - <span style="text-decoration: line-through">Notification: October 11, 2021</span>
-- <span style="color:red">Camera ready: October 19, 2021</span>
-- <span style="color:red">Registration of speakers: October 22, 2021</span>
-- Registration of participants: October 22, 2021
+- <span style="text-decoration: line-through">Camera ready: October 19, 2021</span>
+- <span style="color:red">Registration of speakers: October 26, 2021</span>
+- <span style="color:red">Registration of participants: October 26, 2021</span>
 - Conference days:
     - Graduate school: October 26-27, 2021
     - Conference: October 28-29, 2021

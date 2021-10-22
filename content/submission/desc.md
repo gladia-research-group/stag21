@@ -18,13 +18,12 @@ design:
 
 - <span style="text-decoration: line-through">Paper submission (Extended): September 19, 2021</span>
 - <span style="text-decoration: line-through">Notification: October 11, 2021</span>
-- <span style="color:red">Camera ready: October 19, 2021</span>
-- <span style="color:red">Registration of speakers: October 22, 2021</span>
-- Registration of participants: October 22, 2021
+- <span style="text-decoration: line-through">Camera ready: October 19, 2021</span>
+- <span style="color:red">Registration of speakers: October 26, 2021</span>
+- <span style="color:red">Registration of participants: October 26, 2021</span>
 - Conference days:
     - Graduate school: October 26-27, 2021
     - Conference: October 28-29, 2021
-
 ---
 
 Papers must be written in English and submitted in PDF format via EasyChair, following this [link](https://easychair.org/account/signin?l=FEfwkbFqMA43jg8XGZbx1D#). Each PDF should not exceed 10 pages in length (references excluded) and must be formatted according to the Eurographics Computer Graphics Forum publication guidelines. A LaTeX template for submitters is available {{% staticref "uploads/egPublStyle-STAG2021.zip" "newtab" %}}here{{% /staticref %}}. Submitted papers will undergo a double-blind reviewing process. We therefore invite submitters to carefully remove all personal data from their articles (e.g., authors, affiliations, etc.).
