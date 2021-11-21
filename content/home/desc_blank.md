@@ -23,5 +23,15 @@ We were planning to organize this event in person in Rome. Unfortunately due to 
 The aim of STAG is the dissemination of research activities and novel ideas on both theoretical and application-oriented aspects of Computer Graphics, bringing together researchers and practitioners from both national and international scientific communities to share their latest developments.
 We invite contributions in the form of long or short papers as described on the [call for papers](/call_papers) page. **STAG 2021** will also host, as usual, the [Graduate School](/school), the [EG-Italy thesis award](/awards) ceremony and the new [PhD consortium](/consortium).
 
+## Best Paper Award
+
+*"Efficient Image Vectorisation Using Mesh Colours"* by Gerben Jan Hettinga, Jose Echevarria e Jiri Kosinka has been awarded the **best paper award**.
+
+Honorable mentions has been given to:
+
+ - *"Guiding Lens-based Exploration Using Annotation Graphs"* by Moonisa Ahsan, Fabio Marton, Ruggero Pintus and Enrico Gobbetti
+ - *"Straightedge and Compass Constructions on Surfaces"* by Caudio Mancinelli and Enrico Puppo
+ - *"A Geometric Approach for Computing the Kernel of a Polyhedron"* by Tommaso Sorgente, Silvia Biasotti and Michela Spagnuolo 
+
 <div class="sketchfab-embed-wrapper" style="overflow: hidden;padding-top: 56.25%;position: relative;"> <iframe title="Coliseo de Roma / Roman Colosseum" style=" border:0;height:100%;left:0;position:absolute;top:0;width:100%;"
 frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/544c64b6445e4899a17350c949b7766a/embed?autostart=1"> </iframe> </div>
