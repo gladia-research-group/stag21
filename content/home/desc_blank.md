@@ -27,7 +27,7 @@ We invite contributions in the form of long or short papers as described on the 
 
 *"Efficient Image Vectorisation Using Mesh Colours"* by Gerben Jan Hettinga, Jose Echevarria e Jiri Kosinka has been awarded the **best paper award**.
 
-Honorable mentions has been given to:
+Honorable mentions have been given to:
 
  - *"Guiding Lens-based Exploration Using Annotation Graphs"* by Moonisa Ahsan, Fabio Marton, Ruggero Pintus and Enrico Gobbetti
  - *"Straightedge and Compass Constructions on Surfaces"* by Caudio Mancinelli and Enrico Puppo
